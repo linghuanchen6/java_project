@@ -26,7 +26,7 @@ public class EquipmentController {
 
 
     @Resource
-    EquipmentService equipmentService;
+    EquipmentService equipmentService; //设备
     @Resource
     EquipmentMapper equipmentMapper;
 
